@@ -22,10 +22,10 @@ This README is used to track the progress of various tasks and solutions.
 - [X] **12) Age between 2 and 4**
 - [X] **13) Change age in row ‘f’**
 - [X] **14) Sum of all visits**
-- [ ] **15) Average age by animal**
-- [ ] **16) Modify and revert rows**
-- [ ] **17) Count by animal type**
-- [ ] **18) Sort by age and visits**
+- [X] **15) Average age by animal**
+- [X] **16) Modify and revert rows**
+- [X] **17) Count by animal type**
+- [X] **18) Sort by age and visits**
 - [ ] **19) Convert 'priority' to boolean**
 - [ ] **20) Replace 'snake' with 'python'**
 - [ ] **21) Mean age by animal and visits**
