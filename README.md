@@ -6,153 +6,148 @@ This README is used to track the progress of various tasks and solutions.
 
 ### Advanced DataFrame Techniques
 
-1. ✅ **Convert 'priority' to boolean**
-   - Notes:
+- [ ] **Convert 'priority' to boolean**
+  - Notes:
 
-2. ⏳ **Replace 'snake' with 'python'**
-   - Notes:
+- [ ] **Replace 'snake' with 'python'**
+  - Notes:
 
-3. ⏳ **Mean age by animal and visits**
-   - Notes:
+- [ ] **Mean age by animal and visits**
+  - Notes:
 
-4. ⏳ **Filter duplicate integers**
-   - Notes:
+- [ ] **Filter duplicate integers**
+  - Notes:
 
-5. ⏳ **Subtract row mean**
-   - Notes:
+- [ ] **Subtract row mean**
+  - Notes:
 
-6. ⏳ **Column with smallest sum**
-   - Notes:
+- [ ] **Column with smallest sum**
+  - Notes:
 
-7. ⏳ **Count unique rows**
-   - Notes:
+- [ ] **Count unique rows**
+  - Notes:
 
-8. ⏳ **Column with third NaN**
-   - Notes:
+- [ ] **Column with third NaN**
+  - Notes:
 
-9. ⏳ **Solution review for 26**
-   - Notes:
+- [ ] **Solution review for 26**
+  - Notes:
 
-10. ⏳ **Sum of top three values**
-    - Notes:
+- [ ] **Sum of top three values**
+  - Notes:
 
-11. ⏳ **Sum by column condition**
-    - Notes:
+- [ ] **Sum by column condition**
+  - Notes:
 
-12. ⏳ **Recent problem review**
-    - Notes:
+- [ ] **Recent problem review**
+  - Notes:
 
-13. ⏳ **Count differences since last zero**
-    - Notes:
+- [ ] **Count differences since last zero**
+  - Notes:
 
-14. ⏳ **Locate largest values**
-    - Notes:
+- [ ] **Locate largest values**
+  - Notes:
 
-15. ⏳ **Replace negatives with mean**
-    - Notes:
+- [ ] **Replace negatives with mean**
+  - Notes:
 
-16. ⏳ **Rolling mean over groups**
-    - Notes:
+- [ ] **Rolling mean over groups**
+  - Notes:
 
 ### Series and DatetimeIndex
 
-1. ⏳ **DatetimeIndex for 2015**
-   - Notes:
+- [ ] **DatetimeIndex for 2015**
+  - Notes:
 
-2. ⏳ **Sum values on Wednesdays**
-   - Notes:
+- [ ] **Sum values on Wednesdays**
+  - Notes:
 
-3. ⏳ **Monthly mean values**
-   - Notes:
+- [ ] **Monthly mean values**
+  - Notes:
 
-4. ⏳ **Best value in four-month groups**
-   - Notes:
+- [ ] **Best value in four-month groups**
+  - Notes:
 
-5. ⏳ **DatetimeIndex of third Thursdays**
-   - Notes:
+- [ ] **DatetimeIndex of third Thursdays**
+  - Notes:
 
 ### Cleaning Data
 
-1. ⏳ **Fill missing FlightNumber**
-   - Notes:
+- [ ] **Fill missing FlightNumber**
+  - Notes:
 
-2. ⏳ **Split column by delimiter**
-   - Notes:
+- [ ] **Split column by delimiter**
+  - Notes:
 
-3. ⏳ **Fix city name capitalization**
-   - Notes:
+- [ ] **Fix city name capitalization**
+  - Notes:
 
-4. ⏳ **Reattach columns**
-   - Notes:
+- [ ] **Reattach columns**
+  - Notes:
 
-5. ⏳ **Fix airline name punctuation**
-   - Notes:
+- [ ] **Fix airline name punctuation**
+  - Notes:
 
-6. ⏳ **Expand RecentDelays into columns**
-   - Notes:
+- [ ] **Expand RecentDelays into columns**
+  - Notes:
 
 ### MultiIndexes in Pandas
 
-1. ⏳ **Construct a MultiIndex**
-   - Notes:
+- [ ] **Construct a MultiIndex**
+  - Notes:
 
-2. ⏳ **Solution review**
-   - Notes:
+- [ ] **Solution review**
+  - Notes:
 
-3. ⏳ **Lexicographically sorted check**
-   - Notes:
+- [ ] **Lexicographically sorted check**
+  - Notes:
 
-4. ⏳ **Select specific MultiIndex labels**
-   - Notes:
+- [ ] **Select specific MultiIndex labels**
+  - Notes:
 
-5. ⏳ **Slice Series with MultiIndex**
-   - Notes:
+- [ ] **Slice Series with MultiIndex**
+  - Notes:
 
-6. ⏳ **Sum by first level**
-   - Notes:
+- [ ] **Sum by first level**
+  - Notes:
 
-7. ⏳ **Alternative sum method**
-   - Notes:
+- [ ] **Alternative sum method**
+  - Notes:
 
-8. ⏳ **Swap MultiIndex levels**
-   - Notes:
+- [ ] **Swap MultiIndex levels**
+  - Notes:
 
 ### Minesweeper Problems
 
-1. ⏳ **Generate coordinate grid**
-   - Notes:
+- [ ] **Generate coordinate grid**
+  - Notes:
 
-2. ⏳ **Add 'safe' or 'mine' column**
-   - Notes:
+- [ ] **Add 'safe' or 'mine' column**
+  - Notes:
 
-3. ⏳ **Count adjacent mines**
-   - Notes:
+- [ ] **Count adjacent mines**
+  - Notes:
 
-4. ⏳ **Review solution to 53**
-   - Notes:
+- [ ] **Review solution to 53**
+  - Notes:
 
 ### Plotting
 
-1. ⏳ **Scatter plot with black x markers**
-   - Notes:
+- [ ] **Scatter plot with black x markers**
+  - Notes:
 
-2. ⏳ **Plot four data types**
-   - Notes:
+- [ ] **Plot four data types**
+  - Notes:
 
-3. ⏳ **Overlay multiple graphs**
-   - Notes:
+- [ ] **Overlay multiple graphs**
+  - Notes:
 
-4. ⏳ **Hourly stock data summary**
-   - Notes:
+- [ ] **Hourly stock data summary**
+  - Notes:
 
-5. ⏳ **Candlestick plot**
-   - Notes:
+- [ ] **Candlestick plot**
+  - Notes:
 
 ## Notes
 - Status: Update the status of each task as you progress.
 - Notes: Additional information or context about the task.
-
-<style>
-    .task-done { color: red; }
-    .task-in-progress { color: orange; }
-</style>
