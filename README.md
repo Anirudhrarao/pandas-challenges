@@ -6,7 +6,7 @@ This README is used to track the progress of various tasks and solutions.
 
 ### Advanced DataFrame Techniques
 
-1. [ ] **Convert 'priority' to boolean**
+1. [X] **Convert 'priority' to boolean**
    - Notes:
 
 2. [ ] **Replace 'snake' with 'python'**
