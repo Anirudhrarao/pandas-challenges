@@ -153,6 +153,6 @@ This README is used to track the progress of various tasks and solutions.
 - Notes: Additional information or context about the task.
 
 <style>
-    .task-done { color: green; }
+    .task-done { color: red; }
     .task-in-progress { color: orange; }
 </style>
