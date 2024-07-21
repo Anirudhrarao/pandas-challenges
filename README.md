@@ -32,7 +32,11 @@ This README is used to track the progress of various tasks and solutions.
 
 ### Advanced DataFrame Techniques
 
+<<<<<<< HEAD
 - [X] **22) Filter duplicate integers**
+=======
+- [X] **22) Filter duplicate integers using shift**
+>>>>>>> 2571ff1c5c8b312524de71656cfc9d35af4387d3
 - [X] **23) Subtract row mean**
 - [ ] **24) Column with smallest sum**
 - [ ] **25) Count unique rows**
