@@ -26,9 +26,9 @@ This README is used to track the progress of various tasks and solutions.
 - [X] **16) Modify and revert rows**
 - [X] **17) Count by animal type**
 - [X] **18) Sort by age and visits**
-- [ ] **19) Convert 'priority' to boolean**
-- [ ] **20) Replace 'snake' with 'python'**
-- [ ] **21) Mean age by animal and visits**
+- [X] **19) Convert 'priority' to boolean**
+- [X] **20) Replace 'snake' with 'python'**
+- [X] **21) Mean age by animal and visits**
 
 ### Advanced DataFrame Techniques
 
