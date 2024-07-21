@@ -32,8 +32,8 @@ This README is used to track the progress of various tasks and solutions.
 
 ### Advanced DataFrame Techniques
 
-- [ ] **22) Filter duplicate integers**
-- [ ] **23) Subtract row mean**
+- [X] **22) Filter duplicate integers using shift**
+- [X] **23) Subtract row mean**
 - [ ] **24) Column with smallest sum**
 - [ ] **25) Count unique rows**
 - [ ] **26) Column with third NaN**
