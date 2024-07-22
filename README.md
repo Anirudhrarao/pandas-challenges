@@ -35,10 +35,10 @@ This README is used to track the progress of various tasks and solutions.
 - [X] **22) Filter duplicate integers**
 - [X] **22) Filter duplicate integers using shift**
 - [X] **23) Subtract row mean**
-- [ ] **24) Column with smallest sum**
-- [ ] **25) Count unique rows**
-- [ ] **26) Column with third NaN**
-- [ ] **27) Sum of top three values**
+- [X] **24) Column with smallest sum**
+- [X] **25) Count unique rows**
+- [X] **26) Column with third NaN**
+- [X] **27) Sum of top three values**
 - [ ] **28) Sum by column condition**
 - [ ] **29) Count differences since last zero**
 - [ ] **30) Locate largest values**
