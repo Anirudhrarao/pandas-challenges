@@ -39,11 +39,11 @@ This README is used to track the progress of various tasks and solutions.
 - [X] **25) Count unique rows**
 - [X] **26) Column with third NaN**
 - [X] **27) Sum of top three values**
-- [ ] **28) Sum by column condition**
-- [ ] **29) Count differences since last zero**
-- [ ] **30) Locate largest values**
-- [ ] **31) Replace negatives with mean**
-- [ ] **32) Rolling mean over groups**
+- [X] **28) Sum by column condition**
+- [O] **29) Count differences since last zero**
+- [X] **30) Locate largest values**
+- [X] **31) Replace negatives with mean**
+- [O] **32) Rolling mean over groups**
 
 ### Series and DatetimeIndex
 
